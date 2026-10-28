@@ -1,0 +1,14 @@
+{
+  "evidence_label": "SYNTHETIC",
+  "note": "Illustrative example only. This is not captured from Sysmon or a real endpoint.",
+  "provider": "Microsoft-Windows-Sysmon",
+  "event_id": 1,
+  "time_created": "2026-01-15T09:20:00Z",
+  "computer": "LAB-WIN10-EXAMPLE",
+  "user": "LAB\\lab_user_example",
+  "image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "command_line": "powershell.exe -NoProfile -Command \"Get-Date\"",
+  "parent_image": "C:\\Windows\\System32\\cmd.exe",
+  "process_guid": "{SYNTHETIC-GUID-NOT-REAL}",
+  "interpretation": "Benign illustrative command. Process name alone is not malicious; validate command line, parent, user, and context."
+}

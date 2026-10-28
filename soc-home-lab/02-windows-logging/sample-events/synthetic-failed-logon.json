@@ -1,0 +1,14 @@
+{
+  "evidence_label": "SYNTHETIC",
+  "note": "Illustrative example only. This is not captured from a real Windows endpoint.",
+  "provider": "Microsoft-Windows-Security-Auditing",
+  "event_id": 4625,
+  "time_created": "2026-01-15T09:14:22Z",
+  "computer": "LAB-WIN10-EXAMPLE",
+  "target_user": "lab_user_example",
+  "logon_type": 3,
+  "source_address": "192.0.2.25",
+  "status": "0xC000006D",
+  "sub_status": "0xC000006A",
+  "interpretation": "Example failed network logon. The values are reserved/example data and must not be treated as evidence of an actual attack."
+}
