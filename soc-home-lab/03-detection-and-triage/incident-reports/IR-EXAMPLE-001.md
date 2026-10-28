@@ -11,11 +11,11 @@ An example review considers repeated Windows failed-logon events for a lab accou
 ## Scope
 - Asset: `LAB-WIN10-EXAMPLE` (fictional)
 - Account: `lab_user_example` (fictional)
-- Source: `192.0.2.25` (documentation/example address)
+- Source: `192.0.XX.XX` (documentation/example address)
 - Time window: example timestamps only
 
 ## Timeline
-- 09:14:22 UTC — synthetic Event ID 4625 example.
+- 09:XX:22 UTC — synthetic Event ID 4625 example.
 - Additional events — not provided; no claims are made about further activity.
 
 ## Analysis
