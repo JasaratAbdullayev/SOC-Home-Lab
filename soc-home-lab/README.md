@@ -32,9 +32,6 @@ This is a conceptual layout. Adapt component names and addresses to the actual d
 - `samples/` — clearly labeled synthetic events for practicing analysis.
 - `roadmap.md` — staged future improvements.
 
-## What is and is not claimed
-
-This repository provides a documented lab plan and example investigation artifacts. Do **not** claim that a command succeeded, an agent connected, an alert fired, or a rule was tested unless you personally verified it in the lab. Replace placeholders with your own verified observations when available.
 
 ## Safety and privacy
 
