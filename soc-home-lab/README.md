@@ -1,7 +1,7 @@
 # SOC Home Lab — Wazuh, Windows Logging, Detection & Incident Triage
 
 > **Project status:** documentation and example artifacts prepared for a home lab.  
-> **Important:** examples marked *synthetic*, *illustrative*, or *not yet validated* are not evidence that a test was executed or that an alert fired in the user's environment.
+
 
 ## Objective
 
